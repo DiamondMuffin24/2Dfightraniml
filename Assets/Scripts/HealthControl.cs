@@ -232,8 +232,5 @@ public class HealthControl : MonoBehaviour
         restartDialog.SetActive(c);
     }
 
-    public void Restart()
-    {
-        SceneManager.LoadScene("FighterScene");
-    }
+    
 }
