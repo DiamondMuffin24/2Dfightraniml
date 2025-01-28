@@ -7,6 +7,6 @@ public class SceneManager : MonoBehaviour
 {
     public void LoadScene(string FighterScene)
     {
-        SceneManager.LoadScene(FighterScene);
+        UnityEngine.SceneManagement.SceneManager.LoadScene(FighterScene);
     }
 }
