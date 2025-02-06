@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f8914eb4e8ba2ee45a5583871405937d
+guid: 4a3d4aea71cd88c48892b75653c24c1f
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -106,30 +106,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lizard_0
+      name: pufferatck1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +124,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 845bfbad14dedf84c836842e698cb5b2
-      internalID: 1240106259
+      spriteID: af6b0a41c3d088a4b948a8fc3cb731ec
+      internalID: 653910922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_1
+      name: pufferatck1_1
       rect:
         serializedVersion: 2
-        x: 1096
+        x: 1366
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e121e1fa0110a844be0c5b8de0776bf
-      internalID: -2029416232
+      spriteID: cf5f69187ba86204ba8e707eaf8496b6
+      internalID: -41559298
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_2
+      name: pufferatck1_2
       rect:
         serializedVersion: 2
-        x: 2192
+        x: 2732
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +166,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac6abf4b8fa91664082cf19afcaa7bba
-      internalID: -1147691899
+      spriteID: 2f936e44b1ca9484dbdf906edf01a730
+      internalID: -17706659
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_3
+      name: pufferatck1_3
       rect:
         serializedVersion: 2
-        x: 3288
+        x: 4098
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9f270b9e9baa4b44d91e6a3c80306f9a
-      internalID: 1775441461
+      spriteID: f6b05012f37fcfd4b94611b67fc808d3
+      internalID: -1881896196
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_4
+      name: pufferatck1_4
       rect:
         serializedVersion: 2
-        x: 4384
+        x: 5464
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +208,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18293bddb1cc7494aaaf23127d070a11
-      internalID: 1333072371
+      spriteID: cecc65c99942a784cbbef4b81f9cfbdc
+      internalID: 1905683208
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_5
+      name: pufferatck1_5
       rect:
         serializedVersion: 2
-        x: 5480
+        x: 6830
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 653f5f4b5c41cfb42892cbcb8929aee3
-      internalID: -1627963103
+      spriteID: 72edbd6ac53001140abb4cadb86f29ac
+      internalID: -1333695724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_6
+      name: pufferatck1_6
       rect:
         serializedVersion: 2
-        x: 6576
+        x: 8196
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +250,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ab0ef431e648e674c9d561a601af1cff
-      internalID: 64255008
+      spriteID: 975e4e2bdcb323c48be3c1be39829bec
+      internalID: 623363747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard_7
+      name: pufferatck1_7
       rect:
         serializedVersion: 2
-        x: 7672
+        x: 9562
         y: 0
-        width: 1096.5
-        height: 825
+        width: 1366
+        height: 1224
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,8 +271,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12ae05d0d8fd66748a1d356bfbbdd814
-      internalID: -1631544745
+      spriteID: e4abadacceae015459ae147bb26edac2
+      internalID: -239015760
       vertices: []
       indices: 
       edges: []
@@ -301,14 +288,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Lizard_0: 1240106259
-      Lizard_1: -2029416232
-      Lizard_2: -1147691899
-      Lizard_3: 1775441461
-      Lizard_4: 1333072371
-      Lizard_5: -1627963103
-      Lizard_6: 64255008
-      Lizard_7: -1631544745
+      pufferatck1_0: 653910922
+      pufferatck1_1: -41559298
+      pufferatck1_2: -17706659
+      pufferatck1_3: -1881896196
+      pufferatck1_4: 1905683208
+      pufferatck1_5: -1333695724
+      pufferatck1_6: 623363747
+      pufferatck1_7: -239015760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
