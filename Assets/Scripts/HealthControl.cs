@@ -62,8 +62,8 @@ public class HealthControl : MonoBehaviour
 
     void CheckHealth()
     {
-        healthBar.rectTransform.localScale = new Vector3(health / 100, healthBar.rectTransform.localScale.y,
-            healthBar.rectTransform.localScale.z);
+        healthBar.rectTransform.localScale = new Vector3(health / 100, healthBar.rectTransform.localScale.y, healthBar.rectTransform.localScale.z);
+
         if (health <= 0.0f)
         {
             ShowRestartDialog(true);
